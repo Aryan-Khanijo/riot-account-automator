@@ -1,1 +1,1 @@
-# riot-accout-automator
+# Riot-Account-Automator
